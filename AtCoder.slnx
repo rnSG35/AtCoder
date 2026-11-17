@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AtCoder/AtCoder.vcxproj" Id="d075f2ef-772c-4907-9aa1-b0c2e251f3ab" />
+</Solution>
